@@ -1,0 +1,18 @@
+.odd {
+    background-color: #fa8072;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#divone {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.specialp, #divtwo {
+    font-size: 24px;
+}
+
+#divtwo {
+    background-color: #00ff04;
+    font-weight: bold;
+}
